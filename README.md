@@ -1,8 +1,8 @@
 ## Hotel Management System
 
-🍞📅 A Java program that is full featured for managing a hotel.
+🍞 A Java program that is full featured for managing a hotel.
 
-## 📅 Features
+## Features
 
 ### ✨ Check availability
 ### ✨ Book Rooms
